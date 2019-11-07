@@ -11,8 +11,8 @@ html, body {
   display: grid;
   -ms-grid-columns: 3fr 1fr;
       grid-template-columns: 3fr 1fr;
-  -ms-grid-rows: 20vh 70vh 10vh;
-      grid-template-rows: 20vh 70vh 10vh;
+  -ms-grid-rows: 15vh 70vh 15vh;
+      grid-template-rows: 15vh 70vh 15vh;
       grid-template-areas: "h h" "m a" "f f";
 }
 
